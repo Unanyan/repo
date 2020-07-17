@@ -10,6 +10,7 @@ List::List() {
 
 List::~List() {
 	clear();
+	
 }
 
 void List::push_back(int data) {
