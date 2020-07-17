@@ -2,6 +2,7 @@
 #include "list.h"
 
 List::List() {
+	
 	size = 0;
 	head = NULL;
 	tail = NULL;
